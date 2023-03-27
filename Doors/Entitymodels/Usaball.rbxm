@@ -1,89 +1,0 @@
-<roblox!‰ÿ
-
-  
-              META$   "       ð      ExplicitAutoJoints   trueSSTR          P     
- P     INST$   #       ð    
-   Attachment  °        INST          ð
-      BodyGyro       INST          ð      BodyVelocity       INST(   &       ð      DistortionSoundEffect       INST'   %       ð      EqualizerSoundEffect        INST$   "       ð      FlangeSoundEffect       INST          ð      Model        INST          ð      Part       INST$   (       õ      ParticleEmitter   P  INST          ð	   
-   PointLight       
-INST          ð
-      Sound          INST          @    ðSpecialMesh       INST%   #       ð      TremoloSoundEffect       "PROP)   (       ð
-       AttributesSerialize €        PROP3   6       ð       CFrame  ð	€€u#+œ €œŠ   ¹  [   PROP4   6       ò       Name
-   Attachment	   Cam    FaceAttachPROP#   .       ð    
-   SourceAssetId  P  PROP          Ð       Tags
- €        PROP          ð       Visible   PROP"           ð      AttributesSerialize    PROP          ð
-      CFrame            PROP          à      D‡ô  PROP           ð   	   MaxTorque‘†  ”èH ‘†  PROP          ð
-      Name   BodyGyroPROP          à      PŠw  PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP"           ð      AttributesSerialize    PROP          ð      MaxForce”èH     ”èH PROP          ð      Name   BodyVelocityPROP          à      P‰8€ PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP          ð      Velocity            PROP"           ð      AttributesSerialize    PROP          ð      EnabledPROP          ð      Level~   PROP(   &       ð      Name   DistortionSoundEffectPROP          ð      Priority   PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP"           ð      AttributesSerialize    PROP          ð      EnabledPROP          ð      HighGain‚VfgPROP          ð      LowGain{™™šPROP          ð      MidGain™›PROP&   %       @    ðName   EqualizerSoundEffectPROP          ð      Priority   PROP           ð   
-   SourceAssetId       PROP          @    Tags    PROP"           ð      AttributesSerialize    PROP          @     Depth   PROP          ð      EnabledPROP          ð      Mix   PROP$   "       ð      Name   FlangeSoundEffectPROP          ð      Priority   PROP          ð      Rate|™™šPROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROPB   A       ð$      AttributesSerialize!      
-   LoadModule  RushMovingPROP          ð   
-   LevelOfDetail    PROP'   %       ð      ModelMeshCFrame            PROP          ð   
-   ModelMeshData    PROP$   "       ð   
-   ModelMeshSize            PROP!          ð      ModelStreamingMode    PROP          ð      Name   RushPROP          ð      NeedsPivotMigration PROP          ð	      PrimaryPart   PROP          ð	      ScaleFactor   PROP           ð   
-   SourceAssetId   9OaêPROP          ð      Tags    PROP@   K       ô
-      WorldPivotData  B €?  B €¿ ð  ƒÐ  € Ð…Ä  PROP          ð      AnchoredPROP"           ð      AttributesSerialize    PROP          ð   
-   BackParamA~  PROP          ð   
-   BackParamB~   PROP          ð	      BackSurface    PROP          ð      BackSurfaceInput    PROP          ð
-      BottomParamA~  PROP          ð
-      BottomParamB~   PROP          ð   
-   BottomSurface    PROP!          ð      BottomSurfaceInput    PROP4   @       ô      CFrame  B
- €?  B
- €¿ à  ƒÐ  € Ð…Ä  PROP          ð   
-   CanCollidePROP          ð      CanQueryPROP          ð      CanTouchPROP          ð   
-   CastShadowPROP$   "       ð      CollisionGroup   DefaultPROP          ð      CollisionGroupId    PROP          ð      Color3uint8£¢¥PROP$   "       ð      CustomPhysicalProperties PROP          ð	      FrontParamA~  PROP          ð	      FrontParamB~   PROP          ð
-      FrontSurface    PROP           ð      FrontSurfaceInput    PROP          ð   
-   LeftParamA~  PROP          ð   
-   LeftParamB~   PROP          ð	      LeftSurface    PROP          ð      LeftSurfaceInput    PROP          ð      Locked PROP          ð      Massless PROP          ð      Material   PROP&   &       ñ	      MaterialVariantS
- ized    PROP          ð      Name   RushPROP#   !       ð      PivotOffset            PROP          ð	      Reflectance    PROP          ð	      RightParamA~  PROP          ð	      RightParamB~   PROP          ð
-      RightSurface    PROP           ð      RightSurfaceInput    PROP          ð
-      RootPriority    PROP"           ð      RotVelocity            PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP          ð   	   TopParamA~  PROP          ð   	   TopParamB~   PROP          ð   
-   TopSurface    PROP          ð
-      TopSurfaceInput    PROP          ð
-      Transparency   PROP          ð      Velocity            PROP          ð   
-   formFactorRaw   PROP          ð      shape    PROP          ð
-      size Ô Ô ÔPROP&   9       ÿ      Acceleration   {  ™  ™  šPROP*   (       ð      AttributesSerialize            PROP!          ð   
-   Brightness  Ì  Ì  ÌPROP?   ’       ú      Color  BºÀ@= "€?  ,        , P?    PROP          ð
-      Drag€@@      PROP(   &       ð      EmissionDirection         PROP          ð      Enabled PROP(   2       û      FlipbookFramerate  €? P?  €?PROP\   Î       ò2      FlipbookIncompatible7   Particle texture must be 1024 by ƒto use fF /s.; ^Pooks.PROP%   #       ð      FlipbookLayout            PROP#   !       ð      FlipbookMode            PROP!          ð      FlipbookStartRandom   PROP    )       @    ØLifetime  €? €ÍÌÌ>ÍÌÌ>PROP$   "       ð   
-   LightEmission }  3  3  4 PROP%   #       ð      LightInfluence            PROP          ð	      LockedToPartPROP4   7       ô      Name   Black   ParticleEmitter
- PTrailPROP"           ð      Orientation            PROP          ð
-      Rate…‚…@      PROP&   )       @    óRotSpeed  @À  @@  € Õ£HP›öKPROP*   )       @    ðRotation  ´Ã  ´C  €¿  €?  HÂ  pBPROP          ð      Shape            PROP!          ð   
-   ShapeInOut            PROP#   !       ð      ShapePartial         PROP!          ð   
-   ShapeStyle            PROP6   a       ô       Size  "PA
- $€?  &@@    8 ` A    PROP!   .       þ   
-   SourceAssetId  P  PROP"   &       ñ       Speed  c @   ? P     PROP(   ,       ñ      SpreadAngle
-‡‡‡hhh   P     PROP,   c       ü      Squash  $€?  0  €?  €?    PROP          ð
-      Tags            PROPI   a       ü      Texture   rbxassetid://390410785 ¼5467105134 °12670579068PROP           ð   	   TimeScale         PROPÕ   A      ô      Transparency	   €?
- @ú¹á=   Dú¹a> @´=¢>   5«BÛ 1ò"8   DU†1?0 5'M  ` 
-   q­6Ê=ÍÌT, 5]¥+X qÃ}Œ>ÍÌD 57à³ qï­Ð>ffV 5‚¬p Dœ‹?0 5õ+ q·)>?33K0 5Ç»W q¦|h?  ` Œ     ` ?    PROP*   (       ð      VelocityInheritance            PROP          ð
-      ZOffset~Ì  Ì  Ì PROP"           ð	      AttributesSerialize    PROP          ð	   
-   Brightness~¸RPROP          ð	      Color    z„   PROP          ð	      Enabled PROP          ð	      Name
-   PointLightPROP          ð	      Rangeƒ€  PROP          ð	      Shadows PROP           ð	   
-   SourceAssetId       PROP          ð	      Tags    PROP&   $       ð
-      AttributesSerialize        PROP          ð
-      EmitterSize@@    PROP"   #       @
-    ÀLoopRegion  °`jG     `jGPROP          ð
-      LoopedPROP(   '       ð
-      Name	   Footsteps
- PlaySoundPROP          ð
-      PlayOnRemove  PROP(   '       ð	
-      PlaybackRegion  °`jG     `jGPROP#   !       ð
-      PlaybackRegionsEnabled  PROP           ð
-   
-   PlaybackSpeedz ë … PROP          ð
-      PlayingPROP          ð
-      RollOffMode      PROP          @
-    ðSoundGroup       PROP:   E       ü
-      SoundId   rbxassetid://1840297374 530591527PROP!   &       ö
-   
-   SourceAssetId  P   PROP          ð
-      Tags        PROP'   %       ð
-      TimePositionçû©ñÒMþ?wõó /â?PROP          ð
-      Volume} ( õ ÂPROP(   &       ð
-      xmlRead_MaxDistance_3…‡,    PROP"           ð      AttributesSerialize    PROP          ð      MeshId    PROP          ð      MeshType    PROP          ð      Name   MeshPROP          ð      Offset            PROP          ð      Scale         PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP          ð   	   TextureId    PROP!           @    ð	VertexColor         PROP"           ð      AttributesSerialize    PROP          ð      Depth   PROP          ð      Duty~áG®PROP          ð      EnabledPROP          ð   	   Frequencyƒ@  PROP%   #       ð      Name   TremoloSoundEffectPROP          ð      Priority   PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PRNT*   •       ?   %p
-  /J #C   ; p   END     	       </roblox>
